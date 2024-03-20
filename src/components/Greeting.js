@@ -15,7 +15,7 @@ const Greeting = () => {
       textAlign: 'center', padding: '20px', fontFamily: 'Arial, sans-serif', backgroundColor: '#f2f2f2',
     }}
     >
-      <h1 style={{ fontSize: '2rem', color: 'blue' }}>Welcome to Our Page</h1>
+      <h1 style={{ fontSize: '2rem', color: 'Green' }}>Hello, Welcome!!!</h1>
       <p style={{ fontSize: '1rem', color: '#333' }}>
         {greetingMsg}
       </p>
